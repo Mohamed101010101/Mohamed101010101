@@ -227,6 +227,12 @@ In high-impact oncology research, the validity of clinical evidence synthesis hi
 
 <div align="center">
 
+<p align="center">
+  <a href="https://www.mti.edu.eg/" target="_blank">
+    <img src="./mti_logo.png" width="220" alt="Modern University for Technology and Information (MTI)" style="background: rgba(255,255,255,0.95); padding: 8px 14px; border-radius: 10px; margin-bottom: 12px;" />
+  </a>
+</p>
+
 ### **Mohamed Said Mohamed Diab** *(Lead Investigator)*
 **Faculty of Medicine, Modern University for Technology and Information (MTI), Cairo, Egypt**
 
