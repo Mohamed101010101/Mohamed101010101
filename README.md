@@ -8,14 +8,23 @@
   <a href="https://github.com/Mohamed101010101/nma-nsclc-evidence-synthesis">
     <img src="https://img.shields.io/badge/Flagship%20Engine-nma--nsclc--evidence--synthesis-0071E3?style=for-the-badge&logo=r&logoColor=white" alt="Flagship Engine" />
   </a>
-  <a href="https://github.com/Mohamed101010101">
-    <img src="https://img.shields.io/badge/Domain-Advanced%20Oncology%20Meta--Research-161B22?style=for-the-badge&logoColor=2997FF" alt="Domain" />
-  </a>
   <a href="https://mohamed101010101.github.io/nma-nsclc-evidence-synthesis/">
     <img src="https://img.shields.io/badge/Live%20Report-Interactive%20Monograph-0071E3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Interactive Monograph" />
   </a>
   <a href="https://github.com/Mohamed101010101">
     <img src="https://img.shields.io/badge/Compliance-PRISMA--NMA%202015-238636?style=for-the-badge&logoColor=white" alt="PRISMA-NMA" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://orcid.org/0009-0003-3143-387X">
+    <img src="https://img.shields.io/badge/ORCID-0009--0003--3143--387X-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="mailto:Mohamed.98478@Medicine.mti.edu.eg">
+    <img src="https://img.shields.io/badge/Institutional%20Email-Mohamed.98478%40Medicine.mti.edu.eg-0071E3?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.mti.edu.eg/">
+    <img src="https://img.shields.io/badge/Faculty%20of%20Medicine-MTI%20Cairo%2C%20Egypt-161B22?style=flat-square&logo=medscape&logoColor=2997FF" alt="Affiliation" />
   </a>
 </p>
 
@@ -89,17 +98,31 @@ An enterprise-grade, fully reproducible research engine evaluating first-line sy
 ├── 📂 scripts/analyses/     # 12 sequential mathematical engines (Modular R pipeline)
 ├── 📂 outputs/figures/      # 14 publication-grade 300 DPI exhibits (Vector PDF & PNG)
 ├── 📂 report/               # Publication-grade R Markdown analytical monograph
+├── 📄 CITATION.cff         # Machine-readable scholarly citation metadata
 ├── 📄 REPRODUCIBILITY.md   # Complete computational environment audit & execution log
 └── 📄 LICENSE              # Open-source MIT License
 ```
 
-<p align="center">
-  <a href="https://github.com/Mohamed101010101/nma-nsclc-evidence-synthesis">
-    <img src="https://raw.githubusercontent.com/Mohamed101010101/nma-nsclc-evidence-synthesis/main/outputs/figures/01_network_geometry.png" width="78%" alt="Evidence Network Geometry" />
-  </a>
-  <br/>
-  <sub><b>Figure 01 Preview:</b> Star-loop evidence network topology of 24 landmark Phase II/III trials synthesized in R (<code>netmeta</code>)</sub>
-</p>
+### 📊 Landmark Empirical Exhibits (300 DPI)
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Mohamed101010101/nma-nsclc-evidence-synthesis#figure-01--evidence-network-geometry">
+        <img src="https://raw.githubusercontent.com/Mohamed101010101/nma-nsclc-evidence-synthesis/main/outputs/figures/01_network_geometry.png" width="100%" alt="Figure 01: Star-Loop Network Geometry" />
+      </a>
+      <br/>
+      <sub><b>Figure 01:</b> Multi-arm star-loop network geometry (24 RCTs · 15,753 Patients)</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Mohamed101010101/nma-nsclc-evidence-synthesis#figure-11--benefit-risk-trade-off-plane">
+        <img src="https://raw.githubusercontent.com/Mohamed101010101/nma-nsclc-evidence-synthesis/main/outputs/figures/11_benefit_risk_tradeoff.png" width="100%" alt="Figure 11: Benefit-Risk Trade-Off" />
+      </a>
+      <br/>
+      <sub><b>Figure 11:</b> Bivariate benefit-risk plane (Overall Survival HR vs Grade 3–5 Toxicity OR)</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -170,14 +193,32 @@ An enterprise-grade, fully reproducible research engine evaluating first-line sy
 
 ---
 
+## 👨‍🔬 Principal Investigator & Research Inquiries
+
 <div align="center">
 
-### 📬 Connect & Collaborate
-*Driven by mathematical precision, reproducible science, and high-impact clinical oncology.*
+### **Mohamed Said Mohamed Diab** *(Lead Investigator)*
+**Faculty of Medicine, Modern University for Technology and Information (MTI), Cairo, Egypt**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mohamed101010101-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohamed101010101)
-[![Flagship Repository](https://img.shields.io/badge/Flagship%20Engine-nma--nsclc--evidence--synthesis-0071E3?style=flat-square&logo=r&logoColor=white)](https://github.com/Mohamed101010101/nma-nsclc-evidence-synthesis)
+<p align="center">
+  <a href="https://orcid.org/0009-0003-3143-387X">
+    <img src="https://img.shields.io/badge/ORCID-0009--0003--3143--387X-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="mailto:Mohamed.98478@Medicine.mti.edu.eg">
+    <img src="https://img.shields.io/badge/Institutional%20Email-Mohamed.98478%40Medicine.mti.edu.eg-0071E3?style=flat-square&logo=gmail&logoColor=white" alt="Institutional Email" />
+  </a>
+  <a href="https://www.mti.edu.eg/">
+    <img src="https://img.shields.io/badge/Faculty%20of%20Medicine-MTI%20Cairo%2C%20Egypt-161B22?style=flat-square&logo=medscape&logoColor=2997FF" alt="Faculty of Medicine, MTI" />
+  </a>
+</p>
 
+</div>
+
+> **🤝 Research Collaboration & Methodological Advisory**  
+> Open to collaborative systematic reviews, Bayesian/Frequentist network meta-analyses, and quantitative decision-analytic modeling for high-impact oncology research and clinical practice guideline synthesis.
+
+<br/>
+
+<div align="center">
 <sub>Crafted with Cupertino minimalism · Powered by R and Open Science</sub>
-
 </div>
