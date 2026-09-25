@@ -237,6 +237,9 @@ In high-impact oncology research, the validity of clinical evidence synthesis hi
   <a href="https://orcid.org/0009-0003-3143-387X">
     <img src="https://img.shields.io/badge/ORCID-0009--0003--3143--387X-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
+  <a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=Mohamed+Said+Mohamed+Diab">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
   <a href="mailto:Mohamed.98478@Medicine.mti.edu.eg">
     <img src="https://img.shields.io/badge/Institutional%20Email-Mohamed.98478%40Medicine.mti.edu.eg-0071E3?style=flat-square&logo=gmail&logoColor=white" alt="Institutional Email" />
   </a>
