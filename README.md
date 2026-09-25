@@ -215,10 +215,7 @@ In high-impact oncology research, the validity of clinical evidence synthesis hi
 ## 📊 Analytics & Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohamed101010101&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=2997FF&text_color=8B949E&icon_color=2997FF&hide_border=false" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohamed101010101&layout=compact&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=2997FF&text_color=8B949E&hide_border=false" width="48%" alt="Top Languages" />
-
+  <img src="./stats.svg" width="100%" alt="Research Analytics & Computational Metrics" />
 </div>
 
 ---
@@ -226,12 +223,6 @@ In high-impact oncology research, the validity of clinical evidence synthesis hi
 ## 👨‍🔬 Principal Investigator & Research Inquiries
 
 <div align="center">
-
-<p align="center">
-  <a href="https://www.mti.edu.eg/" target="_blank">
-    <img src="./mti_logo.png" width="220" alt="Modern University for Technology and Information (MTI)" style="background: rgba(255,255,255,0.95); padding: 8px 14px; border-radius: 10px; margin-bottom: 12px;" />
-  </a>
-</p>
 
 ### **Mohamed Said Mohamed Diab** *(Lead Investigator)*
 **Faculty of Medicine, Modern University for Technology and Information (MTI), Cairo, Egypt**

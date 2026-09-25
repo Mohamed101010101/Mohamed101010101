@@ -1,0 +1,58 @@
+<svg width="880" height="180" viewBox="0 0 880 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#161B22" />
+    </linearGradient>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#30363D" />
+      <stop offset="100%" stop-color="#21262D" />
+    </linearGradient>
+  </defs>
+
+  <!-- Panel 1 -->
+  <g transform="translate(0, 0)">
+    <rect x="1" y="1" width="205" height="178" rx="14" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.2"/>
+    <circle cx="28" cy="30" r="4" fill="#2997FF"/>
+    <text x="40" y="34" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">EVIDENCE BASE</text>
+    <text x="24" y="82" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.5">15,753</text>
+    <text x="24" y="108" fill="#58A6FF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600">Patients Synthesized</text>
+    <text x="24" y="134" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="400">24 Landmark Phase II/III</text>
+    <text x="24" y="152" fill="#6E7681" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="400">Randomized Controlled Trials</text>
+  </g>
+
+  <!-- Panel 2 -->
+  <g transform="translate(225, 0)">
+    <rect x="1" y="1" width="205" height="178" rx="14" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.2"/>
+    <circle cx="28" cy="30" r="4" fill="#2997FF"/>
+    <text x="40" y="34" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">COMPUTATIONAL CORE</text>
+    <text x="24" y="82" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.5">12</text>
+    <text x="70" y="82" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="500">Engines</text>
+    <text x="24" y="108" fill="#58A6FF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600">R netmeta Pipeline</text>
+    <text x="24" y="134" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="400">Frequentist Graph Model</text>
+    <text x="24" y="152" fill="#6E7681" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="400">Laplacian Matrix Inversion</text>
+  </g>
+
+  <!-- Panel 3 -->
+  <g transform="translate(450, 0)">
+    <rect x="1" y="1" width="205" height="178" rx="14" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.2"/>
+    <circle cx="28" cy="30" r="4" fill="#3FB950"/>
+    <text x="40" y="34" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">STANDARDS</text>
+    <text x="24" y="78" fill="#3FB950" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="800">PRISMA-NMA</text>
+    <text x="24" y="108" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600">Cochrane Handbook v6</text>
+    <text x="24" y="134" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="400">GRADE Evidence Profiles</text>
+    <text x="24" y="152" fill="#6E7681" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="400">CINeMA Certainty Audits</text>
+  </g>
+
+  <!-- Panel 4 -->
+  <g transform="translate(675, 0)">
+    <rect x="1" y="1" width="205" height="178" rx="14" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.2"/>
+    <circle cx="28" cy="30" r="4" fill="#A371F7"/>
+    <text x="40" y="34" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="11" font-weight="600" letter-spacing="0.5">PUBLICATIONS</text>
+    <text x="24" y="82" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.5">14</text>
+    <text x="68" y="82" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="500">Exhibits</text>
+    <text x="24" y="108" fill="#A371F7" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600">300 DPI Publication Grade</text>
+    <text x="24" y="134" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="400">Lancet / NEJM Standards</text>
+    <text x="24" y="152" fill="#6E7681" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11" font-weight="400">Live HTML Monograph</text>
+  </g>
+</svg>
