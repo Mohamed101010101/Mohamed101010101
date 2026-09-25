@@ -182,6 +182,33 @@ An enterprise-grade, fully reproducible research engine evaluating first-line sy
 
 ---
 
+## 🔬 Advanced Biostatistical Tooling & Methodological Rigor
+
+In high-impact oncology research, the validity of clinical evidence synthesis hinges on rigorous handling of trial heterogeneity, selection mechanisms, and small-sample constraints:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 Bias Diagnostics &amp; Selection Models</h4>
+      <ul>
+        <li><strong>Publication Bias Modeling:</strong> Copas selection models for evaluating missing study mechanisms under non-ignorable selection.</li>
+        <li><strong>Small-Study Effects:</strong> Contour-enhanced funnel plots, Egger linear regression, and Peters test for binary outcomes.</li>
+        <li><strong>Risk of Bias Architecture:</strong> Cochrane RoB 2.0 (for randomized trials) and ROBINS-I (for observational cohorts).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚖️ Sparse Data &amp; Survival Synthesis</h4>
+      <ul>
+        <li><strong>Zero-Event Corrections:</strong> Penalized likelihood methods (Firth logistic regression) and exact beta-binomial models.</li>
+        <li><strong>Inconsistency Deconstruction:</strong> NetHeat spectral leverage decomposition and node-splitting back-calculation.</li>
+        <li><strong>Certainty of Evidence:</strong> GRADE working group profiles and CINeMA (Confidence in Network Meta-Analysis) framework.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 Analytics & Activity
 
 <div align="center">
