@@ -248,6 +248,11 @@ In high-impact oncology research, the validity of clinical evidence synthesis hi
   </a>
 </p>
 
+<p align="center">
+  <b>MTI Evidence Synthesis Working Group:</b><br/>
+  <sub><b>Mohamed Said Mohamed Diab</b> (Lead) &middot; <b>Badr Essam Ali</b> &middot; <b>Ali Hassan Hafez</b> &middot; <b>Omar Gomaa Mousa</b> &middot; <b>Mahmoud Hussein Fathy</b></sub>
+</p>
+
 </div>
 
 > **🤝 Research Collaboration & Methodological Advisory**  
