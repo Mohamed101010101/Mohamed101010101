@@ -212,6 +212,27 @@ In high-impact oncology research, the validity of clinical evidence synthesis hi
 
 ---
 
+## 🔭 Strategic Research Horizons & Methodological Focus
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🎯 Precision Immuno-Oncology</h4>
+      <p>Deciphering multi-agent checkpoint blockade synergy (anti-PD-1/PD-L1 + anti-CTLA-4) stratified by quantitative biomarker thresholds (PD-L1 TPS/CPS expression, tumor mutational burden, driver alterations).</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚖️ Sparse Data Synthesis</h4>
+      <p>Formulating exact beta-binomial likelihoods, Firth penalized regressions, and Copas non-ignorable selection models to counter extreme sparsity, zero-event arms, and selective outcome reporting.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🩺 Decision Analytics &amp; EVPI</h4>
+      <p>Bridging NMA effect size distributions into decision-analytic Markov state-transition models, ASCO/ESMO MCID frontiers, and Expected Value of Perfect Information (EVPI) health economics frameworks.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 Analytics & Activity
 
 <div align="center">
@@ -234,17 +255,26 @@ In high-impact oncology research, the validity of clinical evidence synthesis hi
 **Faculty of Medicine, Modern University for Technology and Information (MTI), Cairo, Egypt**
 
 <p align="center">
+  <a href="https://mohamed101010101.github.io/cv.html">
+    <img src="https://img.shields.io/badge/Academic%20CV-Download%20PDF-0071E3?style=flat-square&logo=academia&logoColor=white" alt="Academic CV" />
+  </a>
   <a href="https://orcid.org/0009-0003-3143-387X">
     <img src="https://img.shields.io/badge/ORCID-0009--0003--3143--387X-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
   <a href="https://scholar.google.com/citations?user=_tJ3MkYAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
+  <a href="https://www.linkedin.com/search/results/all/?keywords=Mohamed%20Said%20Mohamed%20Diab">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.researchgate.net/search/researcher?q=Mohamed%20Said%20Mohamed%20Diab">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" />
+  </a>
   <a href="mailto:Mohamed.98478@Medicine.mti.edu.eg">
     <img src="https://img.shields.io/badge/Institutional%20Email-Mohamed.98478%40Medicine.mti.edu.eg-0071E3?style=flat-square&logo=gmail&logoColor=white" alt="Institutional Email" />
   </a>
-  <a href="https://www.mti.edu.eg/">
-    <img src="https://img.shields.io/badge/Faculty%20of%20Medicine-MTI%20Cairo%2C%20Egypt-161B22?style=flat-square&logo=medscape&logoColor=2997FF" alt="Faculty of Medicine, MTI" />
+  <a href="https://mohamed101010101.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio%20Website-Live-black?style=flat-square&logo=safari&logoColor=2997FF" alt="Portfolio Website" />
   </a>
 </p>
 
