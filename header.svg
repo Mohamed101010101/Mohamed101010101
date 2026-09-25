@@ -1,0 +1,89 @@
+<svg width="900" height="300" viewBox="0 0 900 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0E14" />
+      <stop offset="50%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#161B22" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradient -->
+    <radialGradient id="glow" cx="80%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#0071E3" stop-opacity="0.35" />
+      <stop offset="50%" stop-color="#2997FF" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#0B0E14" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Glass Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#30363D" />
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#21262D" />
+    </linearGradient>
+
+    <!-- Chip Background -->
+    <linearGradient id="chipBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1F242C" />
+      <stop offset="100%" stop-color="#161B22" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box with Rounded Corners -->
+  <rect x="2" y="2" width="896" height="296" rx="16" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5" />
+  
+  <!-- Subtle Glow Effect -->
+  <rect x="2" y="2" width="896" height="296" rx="16" fill="url(#glow)" />
+
+  <!-- macOS Window Chrome Dots -->
+  <circle cx="36" cy="32" r="6" fill="#FF5F56" />
+  <circle cx="56" cy="32" r="6" fill="#FFBD2E" />
+  <circle cx="76" cy="32" r="6" fill="#27C93F" />
+
+  <!-- Window Header Label -->
+  <text x="105" y="36" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500" letter-spacing="0.5">mohamed-said-diab // evidence-synthesis-terminal</text>
+
+  <!-- Divider Line -->
+  <line x1="2" y1="56" x2="898" y2="56" stroke="#21262D" stroke-width="1" />
+
+  <!-- Category Tag Badge -->
+  <g transform="translate(40, 82)">
+    <rect width="365" height="24" rx="12" fill="#0D2744" stroke="#1F4C7A" stroke-width="1"/>
+    <circle cx="12" cy="12" r="4" fill="#2997FF"/>
+    <text x="24" y="16" fill="#58A6FF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="11" font-weight="600" letter-spacing="1">COMPUTATIONAL BIOSTATISTICS · ONCOLOGY NMA</text>
+  </g>
+
+  <!-- Main Headline (Name) -->
+  <text x="40" y="152" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif" font-size="38" font-weight="700" letter-spacing="-0.8">Mohamed Said Diab</text>
+
+  <!-- Subtitle -->
+  <text x="40" y="186" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="15" font-weight="400" letter-spacing="-0.2">Architecting Publication-Grade Evidence Synthesis &amp; Decision Analytics Engines in R</text>
+
+  <!-- Metric Badges Row (Apple Pills) -->
+  <!-- Pill 1 -->
+  <g transform="translate(40, 222)">
+    <rect width="180" height="38" rx="8" fill="url(#chipBg)" stroke="#30363D" stroke-width="1" />
+    <text x="16" y="24" fill="#2997FF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600">⚡ 12</text>
+    <text x="56" y="24" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="400">Analytical Engines</text>
+  </g>
+
+  <!-- Pill 2 -->
+  <g transform="translate(232, 222)">
+    <rect width="195" height="38" rx="8" fill="url(#chipBg)" stroke="#30363D" stroke-width="1" />
+    <text x="16" y="24" fill="#2997FF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600">📊 24 RCTs</text>
+    <text x="96" y="24" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="400">· 15,753 Patients</text>
+  </g>
+
+  <!-- Pill 3 -->
+  <g transform="translate(439, 222)">
+    <rect width="200" height="38" rx="8" fill="url(#chipBg)" stroke="#30363D" stroke-width="1" />
+    <text x="16" y="24" fill="#3FB950" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600">✓ PRISMA-NMA</text>
+    <text x="135" y="24" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="400">Compliant</text>
+  </g>
+
+  <!-- Pill 4 -->
+  <g transform="translate(651, 222)">
+    <rect width="209" height="38" rx="8" fill="url(#chipBg)" stroke="#30363D" stroke-width="1" />
+    <text x="16" y="24" fill="#A371F7" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="600">🎯 300 DPI</text>
+    <text x="98" y="24" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" font-weight="400">Lancet/NEJM Grade</text>
+  </g>
+</svg>
