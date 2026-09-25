@@ -93,6 +93,14 @@ An enterprise-grade, fully reproducible research engine evaluating first-line sy
 └── 📄 LICENSE              # Open-source MIT License
 ```
 
+<p align="center">
+  <a href="https://github.com/Mohamed101010101/nma-nsclc-evidence-synthesis">
+    <img src="https://raw.githubusercontent.com/Mohamed101010101/nma-nsclc-evidence-synthesis/main/outputs/figures/01_network_geometry.png" width="78%" alt="Evidence Network Geometry" />
+  </a>
+  <br/>
+  <sub><b>Figure 01 Preview:</b> Star-loop evidence network topology of 24 landmark Phase II/III trials synthesized in R (<code>netmeta</code>)</sub>
+</p>
+
 ---
 
 ## 📐 Methodological Matrix & Core Competencies
